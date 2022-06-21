@@ -3,7 +3,7 @@
 ## ✨ About  
 - Pronouns: she/her/hers
 - Currently in Seattle, WA
-- Transitioning from a career in clinical medicine to data analytics 
+- A data enthusiast transitioning from a career in clinical medicine to data analytics 
 
 ## ⭐ Skills
 - Google Spreadsheets
