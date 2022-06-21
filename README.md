@@ -13,7 +13,12 @@
 - R
 - Currently learning Python
 
-## 📊 Courses
+## 📊 Projects
+- [Data Portfolio](https://github.com/audreysung/Data-Portfolio)
+- [Tableau](https://public.tableau.com/app/profile/audrey.sung#!/)
+- [LinkedIn](https://www.linkedin.com/in/audrey-soojung-sung/)
+
+## 📈 Courses
 ### Excel
 - [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics/#?modal_active=none) ✅
 - [Excel Skills for Business: Essentials offered by Macquarie University](https://www.coursera.org/learn/excel-essentials) ✅
@@ -32,9 +37,3 @@
 - [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics/#?modal_active=none) ✅
 
 ### Python
-
-
-## 📊 Projects
-- [Data Portfolio](https://github.com/audreysung/Data-Portfolio)
-- [Tableau](https://public.tableau.com/app/profile/audrey.sung#!/)
-- [LinkedIn](https://www.linkedin.com/in/audrey-soojung-sung/)
