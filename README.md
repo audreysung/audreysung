@@ -1,4 +1,4 @@
-# Hi there! My name is Audrey. Welcome to my Github! 😊
+# Hi there! Welcome to my Github! 😊
 
 ## ✨ About  
 - Pronouns: she/her/hers
